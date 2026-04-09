@@ -1,0 +1,86 @@
+{
+  "personal": {
+    "name": "Name",
+    "role": "AI & Machine Learning Engineer",
+    "experience": "3 Years",
+    "location": "San Francisco, CA",
+    "email": "alex.rivera@example.com",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "resumeUrl": "#",
+    "heroImage": "https://images.unsplash.com/photo-1639322537228-f710d846310a?auto=format&fit=crop&q=80&w=1920",
+    "bio": "Specializing in Deep Learning, Computer Vision, and Generative AI. I build scalable ML systems that bridge the gap between research and production."
+  },
+  "skills": [
+    { "category": "Languages", "items": ["Python", "C++", "SQL", "TypeScript"] },
+    { "category": "Frameworks", "items": ["PyTorch", "TensorFlow", "JAX", "Scikit-Learn"] },
+    { "category": "Tools", "items": ["Docker", "Kubernetes", "AWS", "GCP", "MLflow"] },
+    { "category": "Specializations", "items": ["LLMs", "Computer Vision", "NLP", "Reinforcement Learning"] }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "NeuralVision Pro",
+      "description": "Real-time object detection and segmentation system for autonomous drones using custom YOLOv8 architecture.",
+      "tags": ["Computer Vision", "PyTorch", "Edge AI"],
+      "link": "#",
+      "image": "https://picsum.photos/seed/vision/800/600"
+    },
+    {
+      "id": 2,
+      "title": "Lumina LLM",
+      "description": "Fine-tuned Llama-3 model for specialized medical documentation with 98% accuracy on domain-specific benchmarks.",
+      "tags": ["NLP", "LLMs", "Transformers"],
+      "link": "#",
+      "image": "https://picsum.photos/seed/llm/800/600"
+    },
+    {
+      "id": 3,
+      "title": "FlowState RL",
+      "description": "Reinforcement learning agent for optimizing data center cooling systems, reducing energy consumption by 15%.",
+      "tags": ["RL", "Optimization", "Python"],
+      "link": "#",
+      "image": "https://picsum.photos/seed/rl/800/600"
+    }
+  ],
+  "experience": [
+    {
+      "company": "TechNova AI",
+      "role": "Senior ML Engineer",
+      "period": "2023 - Present",
+      "description": "Leading the development of generative AI features for enterprise clients."
+    },
+    {
+      "company": "DataStream Systems",
+      "role": "Machine Learning Engineer",
+      "period": "2021 - 2023",
+      "description": "Optimized large-scale data pipelines and implemented predictive maintenance models."
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Future of Generative AI in Enterprise",
+      "excerpt": "Exploring how LLMs are transforming internal workflows and customer interactions in the modern enterprise landscape.",
+      "date": "March 15, 2024",
+      "readTime": "5 min read",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Optimizing PyTorch Models for Edge Deployment",
+      "excerpt": "A deep dive into quantization and pruning techniques for running complex neural networks on resource-constrained devices.",
+      "date": "February 28, 2024",
+      "readTime": "8 min read",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Understanding Reinforcement Learning from Human Feedback",
+      "excerpt": "Breaking down the RLHF process that powers today's most advanced conversational AI models.",
+      "date": "January 10, 2024",
+      "readTime": "12 min read",
+      "link": "#"
+    }
+  ]
+}
